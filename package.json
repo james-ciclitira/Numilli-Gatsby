@@ -6,11 +6,7 @@
   "dependencies": {
     "gatsby": "^1.8.12",
     "gatsby-link": "^1.6.8",
-    "gatsby-plugin-react-helmet": "^1.0.3",
-    "react-forecast": "0.0.7",
-    "react-scroll": "^1.5.4",
-    "react-scrollspy": "^3.3.2",
-    "smoothscroll": "^0.3.0"
+    "gatsby-plugin-react-helmet": "^1.0.3"
   },
   "keywords": [
     "gatsby"

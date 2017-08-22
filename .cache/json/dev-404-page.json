@@ -1,0 +1,100 @@
+{
+    "data": {
+        "allSitePage": {
+            "totalCount": 18,
+            "edges": [
+                {
+                    "node": {
+                        "path": "/About/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/404/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/Dallas/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/FAQ/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/LosAngeles/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/Phoenix/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/NewYork/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/Press/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/Privacy/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/SanFrancisco/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/Seattle/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/StoreAddress/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/Support/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/Terms/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/page-2/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/locations/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/404.html"
+                    }
+                }
+            ]
+        }
+    },
+    "pathContext": {}
+}
