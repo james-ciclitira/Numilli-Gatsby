@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2783px" height="1632px" viewBox="0 0 2783 1632" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="35.8068283%" cy="35.733222%" fx="35.8068283%" fy="35.733222%" r="115.851752%" gradientTransform="translate(0.358068,0.357332),scale(0.612456,1.000000),rotate(47.957829),translate(-0.358068,-0.357332)" id="radialGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </radialGradient>
+        <rect id="path-2" x="0" y="-45" width="2810" height="1721"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bg">
+            <g id="Rectangle">
+                <use fill="#004689" xlink:href="#path-2"></use>
+                <use fill-opacity="0.22" fill="url(#radialGradient-1)" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>
