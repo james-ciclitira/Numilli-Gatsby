@@ -1,0 +1,2 @@
+webpackJsonp([0xe928a29441621800],{"./node_modules/json-loader/index.js!./.cache/json/press.json":function(e,o){e.exports={pathContext:{}}}});
+//# sourceMappingURL=path---press-a0e39f21c11f6a62c5ab.js.map
